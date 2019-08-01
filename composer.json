@@ -1,5 +1,5 @@
 {
-    "name": "dmatthew/magento2-widget-parameters",
+    "name": "e-conomix/dmatthew-magento2-widget-parameters",
     "description": "Custom widget parameter types for improved CMS Page building",
     "require": {
         "php": "~7.0.0|~7.1.0|~7.2.0"
